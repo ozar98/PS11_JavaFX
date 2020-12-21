@@ -28,7 +28,7 @@
         <TextField fx:id="redTextField" maxWidth="-Infinity" prefHeight="5.0" prefWidth="50.0" GridPane.columnIndex="2" />
         <TextField fx:id="greenTextField" maxWidth="-Infinity" prefHeight="25.0" prefWidth="50.0" GridPane.columnIndex="2" GridPane.rowIndex="1" />
         <TextField fx:id="blueTextField" maxWidth="-Infinity" prefWidth="50.0" GridPane.columnIndex="2" GridPane.rowIndex="2" />
-      <Label fx:id="resultTextField" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+      <Label fx:id="resultTextField" text="(0,0,0)" GridPane.columnIndex="1" GridPane.rowIndex="3" />
     </children>
     <padding>
         <Insets bottom="8.0" left="8.0" right="8.0" top="8.0" />
