@@ -71,7 +71,7 @@ public class TipCalculatorModifiedController{
             try {
                 totalAmount = new BigDecimal(newValue);}
             catch (Exception e) {
-                amountTextField.setText("Enter proper value");
+                amountTextField.setText("Enter number");
             }
             calculateAmount();
         });
