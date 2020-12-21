@@ -14,8 +14,8 @@
 
 ![](ImagesContacts/C1.PNG)
 #
-![](Images/C2.PNG)
+![](ImagesContacts/C2.PNG)
 #
-![](Images/C3.PNG)
+![](ImagesContacts/C3.PNG)
 #
 ## Author: Ozar Aini
