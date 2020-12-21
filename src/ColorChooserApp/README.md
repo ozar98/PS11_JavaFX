@@ -12,8 +12,8 @@
 ## For VM options :--module-path ${PATH_TO_JAVAFX} --add-modules javafx.controls,javafx.fxml ;${PATH_TO_JAVAFX} - path to JavaFX library 
  
 
-![](images/CC1.PNG)
+![](Images/CC1.PNG)
 #
-![](images/CC2.PNG)
+![](Images/CC2.PNG)
 #
 ## Author: Ozar Aini
