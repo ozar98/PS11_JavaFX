@@ -117,7 +117,7 @@ public class ContactsAppController {
     // initialize controller
     public void initialize() {
         // populate the ObservableList<Book>
-        Contact one = new Contact("Ozar", "Aini", "+992935012824", "ozar007@gmail.com","Male");
+        Contact one = new Contact("Ozar", "Aini", "+99293555555", "ozar007@gmail.com","Male");
         contacts.add(one);
 
         contactListView.setItems(contacts); // bind booksListView to books
