@@ -1,4 +1,4 @@
-# Contacts application modification using Javafx and SceneBuilder 
+# Tip Calculator Modification using Javafx and SceneBuilder 
 
 ##
 
@@ -12,10 +12,8 @@
 ## For VM options :--module-path ${PATH_TO_JAVAFX} --add-modules javafx.controls,javafx.fxml ;${PATH_TO_JAVAFX} - path to JavaFX library 
  
 
-![](ImagesContacts/C1.PNG)
+![](ImagesT/Capture.PNG)
 #
-![](Images/C2.PNG)
-#
-![](Images/C3.PNG)
+![](ImagesT/Capture1.PNG)
 #
 ## Author: Ozar Aini
